@@ -2,4 +2,5 @@ requests
 streamlit
 transformers
 tensorflow
+tf-keras
 streamlit-lottie
