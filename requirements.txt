@@ -1,5 +1,5 @@
-requests==2.31.0
-streamlit==1.33.0
-transformers==4.11.3
-tensorflow>=2.7.4
+requests
+streamlit
+transformers
+tensorflow
 streamlit-lottie
