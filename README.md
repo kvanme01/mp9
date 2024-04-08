@@ -30,7 +30,7 @@ Install the required dependencies:
 Run the Streamlit application:
 ```streamlit run app.py```
 
-Access the website by opening a web browser and navigating to the provided URL.
+Access the website by opening a web browser and navigating to the provided URL: https://kvanme01-mp9-app-rdqgws.streamlit.app 
 
 ## Usage
 
